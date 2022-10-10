@@ -16,3 +16,4 @@ This script performs a search of recent tweets relating to the upcoming UFC Figh
 
 ## References
 YouTube: CodingEntrepreneurs - '30 Days of Python - Day 21 - Twitter API with Tweepy - Python TUTORIAL'
+Samuel Diaz, Data Scientist - 'Twitter Sentiment Analysis & Botometer — Part 2' via medium.com
