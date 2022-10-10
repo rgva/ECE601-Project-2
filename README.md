@@ -9,6 +9,9 @@ In this script, I am using the twitter API to interact with a singular tweet. Th
 ### '3-automatefollows'
 Similarly to the second script, this automates following users which the @UFC account follows, given the parameter of greater than 300 friends, and greater than 300 followers to limit the amount of bot accounts followed.
 
+### 'UFC-araujo-grasso_tweets'
+This script performs a search of recent tweets relating to the upcoming UFC Fight Night: Araujo v Grasso, storing them in pandas. This gives us the base for sentiment analysis.
+
 ## Phase 1(b): Botometer Sentiment Analysis
 
 ## References
