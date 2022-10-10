@@ -30,7 +30,7 @@ Jimmy Random (Someville, Ohio): "I'm just getting into UFC, and I don't have a f
 
 ![jimmyrandom](https://user-images.githubusercontent.com/113293032/194916939-c9e45de8-6c3f-47e0-b947-4d40d2729750.jpg)
 
-Joe Rogan (Podcast Host): "I wish there was a way I could pad my UFC Fight Night talks with statistics that will make me sound smart!" 
+Joe Rogan (Podcast Host): "I wish there was a way I could pad my UFC Fight Night talks with statistics that'll make me sound smart, man!" 
 
 ![JoeRogan](https://user-images.githubusercontent.com/113293032/194917103-11ed734f-2122-4731-8196-3d1e8b79c1ec.jpg)
 
