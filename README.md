@@ -17,7 +17,7 @@ This is a very basic test of the funcionality of the Botometer library. In theor
 
 ## Phase 1(b): Google NLP
 
-## 'Sentiment Analysis using Google Cloud iPython Terminal'
+## 'google_nlp'
 The Google Cloud uses an interactive version of Python in the cloud shell with the NLP libraries pre-installed. Given the difficulty of exporting these results as a legible .ipynb (since authentication is not a simple process outside of the cloud development environment), I have attached the file 'google_nlp' including the results s I obtained on the Cloud Terminal. Please note this is not able to run on any outside IDE. For sentiment analysis, the Google NLP is very adept at recognizing positive and negative sentiments. The phrase: "Alexa Grasso is a terrible fighter!" scored -70.0% (indicating substantial negative sentiment), and likewise, the phrase: "Viviane Araujo is a great fighter!" scored 90.0% (indicating overwhelmingly positive sentiment). 
 
 ## References
