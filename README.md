@@ -15,7 +15,7 @@ This script performs a search of recent tweets relating to the upcoming UFC Figh
 ### 'singlebot-UFC'
 This is a very basic test of the funcionality of the Botometer library. In theory, the function should take the the input string '@UFC' and verify if it is a bot or not using criteria defined by the Botometer. However, when run, the output raises 'Not authorized' - after much troubleshooting, and changing the subscription on RapidAPI to 'Botometer Pro' this is still not rectified, and I will have to verify with my instructor to see why. 
 
-## Phase 1(b): Botometer Sentiment Analysis
+## Phase 1(b): Google NLP
 
 ## References
 YouTube: CodingEntrepreneurs - '30 Days of Python - Day 21 - Twitter API with Tweepy - Python TUTORIAL'
