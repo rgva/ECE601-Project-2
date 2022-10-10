@@ -23,6 +23,7 @@ The Google Cloud uses an interactive version of Python in the cloud shell with t
 ## Phase 2(a): User Stories
 ### User Stories
 Cory Sandhagen (Bantamweight Div., UFC): "Wow, I'm really torn between these two fighters - I'm not sure who I should support publicly in order to safeguard my reputation!"
+![alt text]([http://url/to/img.png](https://s.yimg.com/ny/api/res/1.2/dcaUEag.6S6p23PhWWOezg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/VfmuuimtHPLJb3sCJPkVKA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/mma_junkie_usa_today_articles_344/ea6d583a028598b195a40659874a618d))
 
 Jimmy Random (Someville, Ohio): "I'm just getting into UFC, and I don't have a favorite fighter yet. I'd love to see who the favorites are so I can start looking up their clips and rooting for them, but I don't know where to start!"
 
