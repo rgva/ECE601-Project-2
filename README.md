@@ -23,12 +23,15 @@ The Google Cloud uses an interactive version of Python in the cloud shell with t
 ## Phase 2(a): User Stories
 ### User Stories
 Cory Sandhagen (Bantamweight Div., UFC): "Wow, I'm really torn between these two fighters - I'm not sure who I should support publicly in order to safeguard my reputation!"
+
 ![CorySandhagen](https://user-images.githubusercontent.com/113293032/194916540-80b71802-a320-4f6c-a7b5-4536898d194c.jpg)
 
 Jimmy Random (Someville, Ohio): "I'm just getting into UFC, and I don't have a favorite fighter yet. I'd love to see who the favorites are so I can start looking up their clips and rooting for them, but I don't know where to start!"
+
 ![jimmyrandom](https://user-images.githubusercontent.com/113293032/194916939-c9e45de8-6c3f-47e0-b947-4d40d2729750.jpg)
 
 Joe Rogan (Podcast Host): "I wish there was a way I could pad my UFC Fight Night talks with statistics that will make me sound smart!" 
+
 ![JoeRogan](https://user-images.githubusercontent.com/113293032/194917103-11ed734f-2122-4731-8196-3d1e8b79c1ec.jpg)
 
 In general, the users for this application will be fans, fighters, and commentators, all of whom have different interests in accessing this data.
