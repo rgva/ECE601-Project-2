@@ -1,4 +1,4 @@
-# ECE601: Project 2 - Analyzing UFC Fight Trends
+# ECE601: Project 2 - Analyzing Trending UFC Fighters
 ## Phase 1(a): Twitter API Tool Tests
 ### '0-authentication'
 This script is the authentication script used in every following python notebook implementing a few of the different tools of interest for Project 2. 
