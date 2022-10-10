@@ -12,6 +12,9 @@ Similarly to the second script, this script is not able to be performed at the c
 ### 'UFC-araujo-grasso_tweets'
 This script performs a search of recent tweets relating to the upcoming UFC Fight Night: Araujo v Grasso, storing them in pandas. The implementation for sentiment analysis is fairly simple in this script - mainly pulling the last 1000 tweets relating to both 'Viviane Araujo' and 'Alexa Grasso', and analyzing the overall sentiment of these tweets. Further implementations will give a more detailed review of positive (such as proportions of positive/neutral/negative, etc. You may see that in these tests, both queries for both fighters turn out mostly negative sentiments in the last 1000 tweets for each (unsurprising given the nature of Twitter). 
 
+### 'singlebot-UFC'
+This is a very basic test of the funcionality of the Botometer library. In theory, the function should take the the input string '@UFC' and verify if it is a bot or not using criteria defined by the Botometer. However, when run, the output raises 'Not authorized' - after much troubleshooting, and changing the subscription on RapidAPI to 'Botometer Pro' this is still not rectified, and I will have to verify with my instructor to see why. 
+
 ## Phase 1(b): Botometer Sentiment Analysis
 
 ## References
