@@ -9,5 +9,5 @@ In this script, I am using the twitter API to interact with a singular tweet. Th
 ### '3-automatefollows'
 Similarly to the second script, this automates following users which the @UFC account follows, given the parameter of greater than 300 friends, and greater than 300 followers to limit the amount of bot accounts followed.
 
-##References
+## References
 YouTube: CodingEntrepreneurs - '30 Days of Python - Day 21 - Twitter API with Tweepy - Python TUTORIAL'
