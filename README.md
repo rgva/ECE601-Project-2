@@ -26,7 +26,7 @@ Cory Sandhagen (Bantamweight Div., UFC): "Wow, I'm really torn between these two
 
 ![CorySandhagen](https://user-images.githubusercontent.com/113293032/194916540-80b71802-a320-4f6c-a7b5-4536898d194c.jpg)
 
-Jimmy Random (Someville, Ohio): "I'm just getting into UFC, and I don't have a favorite fighter yet. I'd love to see who the favorites are so I can start looking up their clips and rooting for them, but I don't know where to start!"
+Jimmy Random (Someville, Ohio): "I just got my paycheck, and I wanna double it - but I don't know which fighter to bet on, bruh!"
 
 ![jimmyrandom](https://user-images.githubusercontent.com/113293032/194916939-c9e45de8-6c3f-47e0-b947-4d40d2729750.jpg)
 
