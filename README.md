@@ -51,7 +51,7 @@ This script performs a search of recent tweets relating to the upcoming UFC Figh
     <td> Sentiment Analysis on Fighters </td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/113293032/208766860-bad71fb3-61d6-4aa7-8043-24857fe96fdd.PNG" width=960 height=500></td>
+    <td><img src="https://user-images.githubusercontent.com/113293032/208766860-bad71fb3-61d6-4aa7-8043-24857fe96fdd.PNG" width=960 height=600></td>
   </tr>
 </table>
 
