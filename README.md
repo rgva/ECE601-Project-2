@@ -25,9 +25,32 @@ Similarly to the second script, this script is not able to be performed at the c
 ### 'UFC-araujo-grasso_tweets'
 This script performs a search of recent tweets relating to the upcoming UFC Fight Night: Araujo v Grasso, storing them in panda dataframes. The implementation for sentiment analysis is fairly simple in this script - mainly pulling the last 1000 tweets relating to both 'Viviane Araujo' and 'Alexa Grasso', and analyzing the overall sentiment of these tweets. Further implementations will give a more detailed review of positive (such as proportions of positive/neutral/negative, etc. You may see that in these tests, both queries for both fighters turn out mostly negative sentiments in the last 1000 tweets for each (unsurprising given the nature of Twitter). 
 
-![GetFightTweets (Araujo)](https://user-images.githubusercontent.com/113293032/208766832-7772c9ea-707b-4e13-9c68-d62ed6c79d49.PNG)
-![GetFightTweets (Grasso)](https://user-images.githubusercontent.com/113293032/208766840-6d9deb63-1e0b-4a4c-bc7e-bb6f85523bbb.PNG)
-![Sentiment_Polarity (Araujo and Grasso)](https://user-images.githubusercontent.com/113293032/208766860-bad71fb3-61d6-4aa7-8043-24857fe96fdd.PNG)
+<table>
+  <tr>
+    <td> Araujo Tweets </td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/113293032/208766832-7772c9ea-707b-4e13-9c68-d62ed6c79d49.PNG" width=560 height=720></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td> Grasso Tweets </td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/113293032/208766840-6d9deb63-1e0b-4a4c-bc7e-bb6f85523bbb.PNG" width=560 height=720></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td> Sentiment Analysis on Fighters </td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/113293032/208766860-bad71fb3-61d6-4aa7-8043-24857fe96fdd.PNG" width=560 height=720></td>
+  </tr>
+</table>
 
 ### 'singlebot-UFC'
 This is a very basic test of the funcionality of the Botometer library. In theory, the function should take the the input string '@UFC' and verify if it is a bot or not using criteria defined by the Botometer. However, when run, the output raises 'Not authorized' - after much troubleshooting, and changing the subscription on RapidAPI to 'Botometer Pro' this is still not rectified, and I will have to verify with my instructor to see why. 
