@@ -30,7 +30,7 @@ This script performs a search of recent tweets relating to the upcoming UFC Figh
     <td> Araujo Tweets </td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/113293032/208766832-7772c9ea-707b-4e13-9c68-d62ed6c79d49.PNG" width=960 height=720></td>
+    <td><img src="https://user-images.githubusercontent.com/113293032/208766832-7772c9ea-707b-4e13-9c68-d62ed6c79d49.PNG" width=960 height=560></td>
   </tr>
 </table>
 
@@ -39,7 +39,7 @@ This script performs a search of recent tweets relating to the upcoming UFC Figh
     <td> Grasso Tweets </td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/113293032/208766840-6d9deb63-1e0b-4a4c-bc7e-bb6f85523bbb.PNG" width=960 height=720></td>
+    <td><img src="https://user-images.githubusercontent.com/113293032/208766840-6d9deb63-1e0b-4a4c-bc7e-bb6f85523bbb.PNG" width=960 height=560></td>
   </tr>
 </table>
 
@@ -48,7 +48,7 @@ This script performs a search of recent tweets relating to the upcoming UFC Figh
     <td> Sentiment Analysis on Fighters </td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/113293032/208766860-bad71fb3-61d6-4aa7-8043-24857fe96fdd.PNG" width=960 height=720></td>
+    <td><img src="https://user-images.githubusercontent.com/113293032/208766860-bad71fb3-61d6-4aa7-8043-24857fe96fdd.PNG" width=960 height=560></td>
   </tr>
 </table>
 
@@ -65,7 +65,7 @@ The Google Cloud uses an interactive version of Python in the cloud shell with t
     <td> Google NLP - Sentiment Analysis </td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/113293032/208766886-b5284ed4-6041-4f3b-bb26-c7df65bc7206.PNG" width=560 height=560></td>
+    <td><img src="https://user-images.githubusercontent.com/113293032/208766886-b5284ed4-6041-4f3b-bb26-c7df65bc7206.PNG" width=560 height=440></td>
   </tr>
 </table>
 
