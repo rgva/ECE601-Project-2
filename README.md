@@ -7,8 +7,8 @@ In this script, I am playing around with the functionality of listing tweets fro
 
 <table>
   <tr>
-    <td> </td>
-    <td> </td>
+    <td> Tweet Features </td>
+    <td> Tweet Text </td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/113293032/208766706-303151f1-0619-4104-9123-6df77d5040ab.PNG" width=560 height=480></td>
