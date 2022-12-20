@@ -4,6 +4,10 @@
 This script is the authentication script used in every following python notebook implementing a few of the different tools of interest for Project 2. 
 ### '1-list_tweets'
 In this script, I am playing around with the functionality of listing tweets from a users timeline. Implenting pandas dataframes, I was able to create a list of tweets, replies, and reference IDs exported as a .csv file 'tweetslist'. This particular test involved my own account, and the .csv file was successfully generated. 
+
+![GetTweets (RGVA) - 1](https://user-images.githubusercontent.com/113293032/208766706-303151f1-0619-4104-9123-6df77d5040ab.PNG)
+![GetTweets (RGVA) - 2](https://user-images.githubusercontent.com/113293032/208766742-6629cfdf-57ce-4e3e-b1c7-b284793db22a.PNG)
+
 ### '2-interacttweets'
 In this script, I am using the twitter API to interact with a singular tweet. This can then be used to pull analytics from the tweet - such as number of likes, retweets, etc. but I am currently limited by the access level of the API in doing so.
 ### '3-automatefollows'
@@ -12,6 +16,10 @@ Similarly to the second script, this script is not able to be performed at the c
 ### 'UFC-araujo-grasso_tweets'
 This script performs a search of recent tweets relating to the upcoming UFC Fight Night: Araujo v Grasso, storing them in panda dataframes. The implementation for sentiment analysis is fairly simple in this script - mainly pulling the last 1000 tweets relating to both 'Viviane Araujo' and 'Alexa Grasso', and analyzing the overall sentiment of these tweets. Further implementations will give a more detailed review of positive (such as proportions of positive/neutral/negative, etc. You may see that in these tests, both queries for both fighters turn out mostly negative sentiments in the last 1000 tweets for each (unsurprising given the nature of Twitter). 
 
+![GetFightTweets (Araujo)](https://user-images.githubusercontent.com/113293032/208766832-7772c9ea-707b-4e13-9c68-d62ed6c79d49.PNG)
+![GetFightTweets (Grasso)](https://user-images.githubusercontent.com/113293032/208766840-6d9deb63-1e0b-4a4c-bc7e-bb6f85523bbb.PNG)
+![Sentiment_Polarity (Araujo and Grasso)](https://user-images.githubusercontent.com/113293032/208766860-bad71fb3-61d6-4aa7-8043-24857fe96fdd.PNG)
+
 ### 'singlebot-UFC'
 This is a very basic test of the funcionality of the Botometer library. In theory, the function should take the the input string '@UFC' and verify if it is a bot or not using criteria defined by the Botometer. However, when run, the output raises 'Not authorized' - after much troubleshooting, and changing the subscription on RapidAPI to 'Botometer Pro' this is still not rectified, and I will have to verify with my instructor to see why. 
 
@@ -19,6 +27,9 @@ This is a very basic test of the funcionality of the Botometer library. In theor
 
 ## 'google_nlp'
 The Google Cloud uses an interactive version of Python in the cloud shell with the NLP libraries pre-installed. Given the difficulty of exporting these results as a legible .ipynb (since authentication is not a simple process outside of the cloud development environment), I have attached the file 'google_nlp' including the results I obtained on the Cloud Terminal. Please note this is not able to run on any outside IDE. For sentiment analysis, the Google NLP is very adept at recognizing positive and negative sentiments. The phrase: "Alexa Grasso is a terrible fighter!" scored -70.0% (indicating substantial negative sentiment), and likewise, the phrase: "Viviane Araujo is a great fighter!" scored 90.0% (indicating overwhelmingly positive sentiment). 
+
+![GoogleNLP](https://user-images.githubusercontent.com/113293032/208766886-b5284ed4-6041-4f3b-bb26-c7df65bc7206.PNG)
+
 
 ## Phase 2(a): User Stories
 ### User Stories
@@ -39,8 +50,8 @@ In general, the users for this application will be fans, fighters, and commentat
 ### MVP: 
 The product should do these things at a minimum:
 - Pull thousands of tweets relating to a certain fighter.
+- Format the tweets in a legible form. 
 - Perform sentiment analysis, identify what the overhwelming sentiment is toward that fighter, and provide a limited set of examples from the tweets.
-- Classify the number of positive to negative tweets.
 
 ## References
 YouTube: CodingEntrepreneurs - '30 Days of Python - Day 21 - Twitter API with Tweepy - Python TUTORIAL'
