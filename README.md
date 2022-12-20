@@ -5,8 +5,18 @@ This script is the authentication script used in every following python notebook
 ### '1-list_tweets'
 In this script, I am playing around with the functionality of listing tweets from a users timeline. Implenting pandas dataframes, I was able to create a list of tweets, replies, and reference IDs exported as a .csv file 'tweetslist'. This particular test involved my own account, and the .csv file was successfully generated. 
 
-![GetTweets (RGVA) - 1](https://user-images.githubusercontent.com/113293032/208766706-303151f1-0619-4104-9123-6df77d5040ab.PNG)
-![GetTweets (RGVA) - 2](https://user-images.githubusercontent.com/113293032/208766742-6629cfdf-57ce-4e3e-b1c7-b284793db22a.PNG)
+<img class=mobile-image src="https://user-images.githubusercontent.com/113293032/208766706-303151f1-0619-4104-9123-6df77d5040ab.PNG"/>
+<img class=mobile-image src="https://user-images.githubusercontent.com/113293032/208766742-6629cfdf-57ce-4e3e-b1c7-b284793db22a.PNG"/>
+
+<style>
+  .img {
+    display: inline-block;
+  }
+  img.mobile-image {
+  width: 49%;
+  display: inline-block;
+  }
+</style>
 
 ### '2-interacttweets'
 In this script, I am using the twitter API to interact with a singular tweet. This can then be used to pull analytics from the tweet - such as number of likes, retweets, etc. but I am currently limited by the access level of the API in doing so.
