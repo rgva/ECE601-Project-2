@@ -11,8 +11,8 @@ In this script, I am playing around with the functionality of listing tweets fro
     <td> </td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/113293032/208766706-303151f1-0619-4104-9123-6df77d5040ab.PNG" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/113293032/208766742-6629cfdf-57ce-4e3e-b1c7-b284793db22a.PNG" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/113293032/208766706-303151f1-0619-4104-9123-6df77d5040ab.PNG" width=480 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/113293032/208766742-6629cfdf-57ce-4e3e-b1c7-b284793db22a.PNG" width=480 height=480></td>
   </tr>
 </table>
   
