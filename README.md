@@ -22,6 +22,9 @@ In this script, I am using the twitter API to interact with a singular tweet. Th
 ### '3-automatefollows'
 Similarly to the second script, this script is not able to be performed at the current access level. However, it automates following users which the @UFC account follows, given the parameter of greater than 300 friends, and greater than 300 followers to limit the amount of bot accounts followed.
 
+### 'singlebot-UFC'
+This is a very basic test of the funcionality of the Botometer library. In theory, the function should take the the input string '@UFC' and verify if it is a bot or not using criteria defined by the Botometer. However, when run, the output raises 'Not authorized' - after much troubleshooting, and changing the subscription on RapidAPI to 'Botometer Pro' this is still not rectified, and I will have to verify with my instructor to see why. 
+
 ### 'UFC-araujo-grasso_tweets'
 This script performs a search of recent tweets relating to the upcoming UFC Fight Night: Araujo v Grasso, storing them in panda dataframes. The implementation for sentiment analysis is fairly simple in this script - mainly pulling the last 1000 tweets relating to both 'Viviane Araujo' and 'Alexa Grasso', and analyzing the overall sentiment of these tweets. You may see that in these tests, both queries for both fighters turn out mostly negative sentiments in the last 1000 tweets for each (unsurprising given the nature of Twitter). This script satisfies the MVP as outlined below.
 
@@ -51,9 +54,6 @@ This script performs a search of recent tweets relating to the upcoming UFC Figh
     <td><img src="https://user-images.githubusercontent.com/113293032/208766860-bad71fb3-61d6-4aa7-8043-24857fe96fdd.PNG" width=960 height=500></td>
   </tr>
 </table>
-
-### 'singlebot-UFC'
-This is a very basic test of the funcionality of the Botometer library. In theory, the function should take the the input string '@UFC' and verify if it is a bot or not using criteria defined by the Botometer. However, when run, the output raises 'Not authorized' - after much troubleshooting, and changing the subscription on RapidAPI to 'Botometer Pro' this is still not rectified, and I will have to verify with my instructor to see why. 
 
 ## Phase 1(b): Google NLP
 
